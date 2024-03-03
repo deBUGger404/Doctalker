@@ -1,10 +1,10 @@
 ---
-title: {{title}}
-emoji: {{emoji}}
-colorFrom: {{colorFrom}}
-colorTo: {{colorTo}}
-sdk: {{sdk}}
-sdk_version: {{sdkVersion}}
+title: Doctalker
+emoji: 😍
+colorFrom: purple
+colorTo: purple
+sdk: gradio
+sdk_version: 3.1.7
 app_file: app.py
 pinned: false
 ---
